@@ -1,0 +1,79 @@
+C:\Users\Furkan KAVAK\source\repos\Sinema_Otomasyonu\Sinema_Otomasyonu\bin\Debug\Sinema_Otomasyonu.exe.config
+C:\Users\Furkan KAVAK\source\repos\Sinema_Otomasyonu\Sinema_Otomasyonu\bin\Debug\Sinema_Otomasyonu.exe
+C:\Users\Furkan KAVAK\source\repos\Sinema_Otomasyonu\Sinema_Otomasyonu\bin\Debug\Sinema_Otomasyonu.pdb
+C:\Users\Furkan KAVAK\source\repos\Sinema_Otomasyonu\Sinema_Otomasyonu\bin\Debug\Guna.UI2.dll
+C:\Users\Furkan KAVAK\source\repos\Sinema_Otomasyonu\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\Furkan KAVAK\source\repos\Sinema_Otomasyonu\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Furkan KAVAK\source\repos\Sinema_Otomasyonu\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.Ana_ekran.resources
+C:\Users\Furkan KAVAK\source\repos\Sinema_Otomasyonu\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.Properties.Resources.resources
+C:\Users\Furkan KAVAK\source\repos\Sinema_Otomasyonu\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\Furkan KAVAK\source\repos\Sinema_Otomasyonu\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Furkan KAVAK\source\repos\Sinema_Otomasyonu\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.csproj.CopyComplete
+C:\Users\Furkan KAVAK\source\repos\Sinema_Otomasyonu\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.exe
+C:\Users\Furkan KAVAK\source\repos\Sinema_Otomasyonu\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.pdb
+C:\Users\Furkan KAVAK\source\repos\Sinema_Otomasyonu\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.Biletler.resources
+C:\Users\Furkan KAVAK\source\repos\Sinema_Otomasyonu\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.Misir_icecek.resources
+C:\Users\Admin\Desktop\pp_img\gorsel-programlama-donem-projesi-root-master\gorsel-programlama-donem-projesi-root-master\Sinema_Otomasyonu\bin\Debug\Sinema_Otomasyonu.exe.config
+C:\Users\Admin\Desktop\pp_img\gorsel-programlama-donem-projesi-root-master\gorsel-programlama-donem-projesi-root-master\Sinema_Otomasyonu\bin\Debug\Sinema_Otomasyonu.exe
+C:\Users\Admin\Desktop\pp_img\gorsel-programlama-donem-projesi-root-master\gorsel-programlama-donem-projesi-root-master\Sinema_Otomasyonu\bin\Debug\Sinema_Otomasyonu.pdb
+C:\Users\Admin\Desktop\pp_img\gorsel-programlama-donem-projesi-root-master\gorsel-programlama-donem-projesi-root-master\Sinema_Otomasyonu\bin\Debug\Guna.UI2.dll
+C:\Users\Admin\Desktop\pp_img\gorsel-programlama-donem-projesi-root-master\gorsel-programlama-donem-projesi-root-master\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\pp_img\gorsel-programlama-donem-projesi-root-master\gorsel-programlama-donem-projesi-root-master\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\pp_img\gorsel-programlama-donem-projesi-root-master\gorsel-programlama-donem-projesi-root-master\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.Ana_ekran.resources
+C:\Users\Admin\Desktop\pp_img\gorsel-programlama-donem-projesi-root-master\gorsel-programlama-donem-projesi-root-master\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.Biletler.resources
+C:\Users\Admin\Desktop\pp_img\gorsel-programlama-donem-projesi-root-master\gorsel-programlama-donem-projesi-root-master\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.Misir_icecek.resources
+C:\Users\Admin\Desktop\pp_img\gorsel-programlama-donem-projesi-root-master\gorsel-programlama-donem-projesi-root-master\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.Properties.Resources.resources
+C:\Users\Admin\Desktop\pp_img\gorsel-programlama-donem-projesi-root-master\gorsel-programlama-donem-projesi-root-master\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\pp_img\gorsel-programlama-donem-projesi-root-master\gorsel-programlama-donem-projesi-root-master\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\pp_img\gorsel-programlama-donem-projesi-root-master\gorsel-programlama-donem-projesi-root-master\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.csproj.CopyComplete
+C:\Users\Admin\Desktop\pp_img\gorsel-programlama-donem-projesi-root-master\gorsel-programlama-donem-projesi-root-master\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.exe
+C:\Users\Admin\Desktop\pp_img\gorsel-programlama-donem-projesi-root-master\gorsel-programlama-donem-projesi-root-master\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.pdb
+C:\Users\Furkan KAVAK\Desktop\gorsel-programlama-donem-projesi-root-master\Sinema_Otomasyonu\bin\Debug\Sinema_Otomasyonu.exe.config
+C:\Users\Furkan KAVAK\Desktop\gorsel-programlama-donem-projesi-root-master\Sinema_Otomasyonu\bin\Debug\Sinema_Otomasyonu.exe
+C:\Users\Furkan KAVAK\Desktop\gorsel-programlama-donem-projesi-root-master\Sinema_Otomasyonu\bin\Debug\Sinema_Otomasyonu.pdb
+C:\Users\Furkan KAVAK\Desktop\gorsel-programlama-donem-projesi-root-master\Sinema_Otomasyonu\bin\Debug\Guna.UI2.dll
+C:\Users\Furkan KAVAK\Desktop\gorsel-programlama-donem-projesi-root-master\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\Furkan KAVAK\Desktop\gorsel-programlama-donem-projesi-root-master\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Furkan KAVAK\Desktop\gorsel-programlama-donem-projesi-root-master\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.Ana_ekran.resources
+C:\Users\Furkan KAVAK\Desktop\gorsel-programlama-donem-projesi-root-master\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.Biletler.resources
+C:\Users\Furkan KAVAK\Desktop\gorsel-programlama-donem-projesi-root-master\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.Misir_icecek.resources
+C:\Users\Furkan KAVAK\Desktop\gorsel-programlama-donem-projesi-root-master\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.Properties.Resources.resources
+C:\Users\Furkan KAVAK\Desktop\gorsel-programlama-donem-projesi-root-master\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\Furkan KAVAK\Desktop\gorsel-programlama-donem-projesi-root-master\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Furkan KAVAK\Desktop\gorsel-programlama-donem-projesi-root-master\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.csproj.CopyComplete
+C:\Users\Furkan KAVAK\Desktop\gorsel-programlama-donem-projesi-root-master\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.exe
+C:\Users\Furkan KAVAK\Desktop\gorsel-programlama-donem-projesi-root-master\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.pdb
+C:\Users\Furkan KAVAK\Desktop\gorsel-programlama-donem-projesi-root-master\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.Odeme.resources
+C:\Users\sanlu\Desktop\c# proje\gorsel-programlama-donem-projesi-root\Sinema_Otomasyonu\bin\Debug\Sinema_Otomasyonu.exe.config
+C:\Users\sanlu\Desktop\c# proje\gorsel-programlama-donem-projesi-root\Sinema_Otomasyonu\bin\Debug\Sinema_Otomasyonu.exe
+C:\Users\sanlu\Desktop\c# proje\gorsel-programlama-donem-projesi-root\Sinema_Otomasyonu\bin\Debug\Sinema_Otomasyonu.pdb
+C:\Users\sanlu\Desktop\c# proje\gorsel-programlama-donem-projesi-root\Sinema_Otomasyonu\bin\Debug\Guna.UI2.dll
+C:\Users\sanlu\Desktop\c# proje\gorsel-programlama-donem-projesi-root\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\sanlu\Desktop\c# proje\gorsel-programlama-donem-projesi-root\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\sanlu\Desktop\c# proje\gorsel-programlama-donem-projesi-root\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.Ana_ekran.resources
+C:\Users\sanlu\Desktop\c# proje\gorsel-programlama-donem-projesi-root\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.Biletler.resources
+C:\Users\sanlu\Desktop\c# proje\gorsel-programlama-donem-projesi-root\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.Misir_icecek.resources
+C:\Users\sanlu\Desktop\c# proje\gorsel-programlama-donem-projesi-root\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.Odeme.resources
+C:\Users\sanlu\Desktop\c# proje\gorsel-programlama-donem-projesi-root\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.Properties.Resources.resources
+C:\Users\sanlu\Desktop\c# proje\gorsel-programlama-donem-projesi-root\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\sanlu\Desktop\c# proje\gorsel-programlama-donem-projesi-root\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\sanlu\Desktop\c# proje\gorsel-programlama-donem-projesi-root\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.csproj.CopyComplete
+C:\Users\sanlu\Desktop\c# proje\gorsel-programlama-donem-projesi-root\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.exe
+C:\Users\sanlu\Desktop\c# proje\gorsel-programlama-donem-projesi-root\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.pdb
+C:\Users\sanlu\Desktop\Sulo proje\gorsel-programlama-donem-projesi-root\Sinema_Otomasyonu\bin\Debug\Sinema_Otomasyonu.exe.config
+C:\Users\sanlu\Desktop\Sulo proje\gorsel-programlama-donem-projesi-root\Sinema_Otomasyonu\bin\Debug\Sinema_Otomasyonu.exe
+C:\Users\sanlu\Desktop\Sulo proje\gorsel-programlama-donem-projesi-root\Sinema_Otomasyonu\bin\Debug\Sinema_Otomasyonu.pdb
+C:\Users\sanlu\Desktop\Sulo proje\gorsel-programlama-donem-projesi-root\Sinema_Otomasyonu\bin\Debug\Guna.UI2.dll
+C:\Users\sanlu\Desktop\Sulo proje\gorsel-programlama-donem-projesi-root\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\sanlu\Desktop\Sulo proje\gorsel-programlama-donem-projesi-root\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\sanlu\Desktop\Sulo proje\gorsel-programlama-donem-projesi-root\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.Ana_ekran.resources
+C:\Users\sanlu\Desktop\Sulo proje\gorsel-programlama-donem-projesi-root\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.Biletler.resources
+C:\Users\sanlu\Desktop\Sulo proje\gorsel-programlama-donem-projesi-root\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.Misir_icecek.resources
+C:\Users\sanlu\Desktop\Sulo proje\gorsel-programlama-donem-projesi-root\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.Odeme.resources
+C:\Users\sanlu\Desktop\Sulo proje\gorsel-programlama-donem-projesi-root\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.Properties.Resources.resources
+C:\Users\sanlu\Desktop\Sulo proje\gorsel-programlama-donem-projesi-root\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\sanlu\Desktop\Sulo proje\gorsel-programlama-donem-projesi-root\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\sanlu\Desktop\Sulo proje\gorsel-programlama-donem-projesi-root\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.csproj.CopyComplete
+C:\Users\sanlu\Desktop\Sulo proje\gorsel-programlama-donem-projesi-root\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.exe
+C:\Users\sanlu\Desktop\Sulo proje\gorsel-programlama-donem-projesi-root\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.pdb
+C:\Users\Furkan KAVAK\source\repos\Sinema_Otomasyonu\Sinema_Otomasyonu\obj\Debug\Sinema_Otomasyonu.Odeme.resources
